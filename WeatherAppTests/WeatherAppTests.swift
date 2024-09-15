@@ -2,7 +2,7 @@
 //  WeatherAppTests.swift
 //  WeatherAppTests
 //
-//  Created by ravinder kumar on 9/13/24.
+//  Created by ravinder vatish on 9/13/24.
 //
 
 import XCTest
